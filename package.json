@@ -1,5 +1,5 @@
 {
-    "name": "Krizyzbot",
+    "name": "Raxcel-MD",
     "version": "2.2.5",
     "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
@@ -30,7 +30,7 @@
     ],
     "homepage": "https://github.com/Kangsad01/bot-md.git",
     "author": {
-        "name": "wahyuricky737"
+        "name": "Kangsad01"
     },
     "repository": {
         "type": "git"
