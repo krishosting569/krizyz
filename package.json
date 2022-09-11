@@ -28,16 +28,16 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/wahyuricky737/krizyzbot-v1",
+    "homepage": "https://github.com/Kangsad01/bot-md.git",
     "author": {
         "name": "wahyuricky737"
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/wahyuricky737/krizyzbot-v1.git"
+        "type": "git"
+        "url": "git+https://github.com/Kangsad01/bot-md.git"
     },
     "bugs": {
-        "url": "https://github.com/wahyuricky737/krizyzbot-v1/issues"
+        "url": "https://github.com/Kangsad01/bot-md.git/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
